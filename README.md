@@ -7,9 +7,7 @@ Multiplayer (network) classic bomberman game.
 
 Very short on time, couldn't add sound, couldn't optimize rendering, couldn't optimize network communication.
 
-![lobby](res/1.png)
-
-![game](res/3.png)
+![lobby](res/1.png) ![game](res/3.png)
 
 ## Usage
 
