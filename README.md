@@ -42,6 +42,6 @@ You'll then be in the lobby.
 
 ## Start the game
 
-When everyone is in the lobby, press <Enter> to tell everyone you're ready. The game will start when everyone is ready.
+When everyone is in the lobby, press `<Enter>` to tell everyone you're ready. The game will start when everyone is ready.
 
 ![lobby](res/lobby.png)
